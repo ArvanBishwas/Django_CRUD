@@ -1,3 +1,4 @@
+<pre>
 1. create vitualenv :
 		code :	virtualenv (filename)
 			Activate- (filname\Scripts\activate)
@@ -48,3 +49,4 @@ User
 password
 host
 port
+</pre>
